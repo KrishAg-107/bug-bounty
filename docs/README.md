@@ -186,6 +186,27 @@ ran ([the tutorials' page](tutorials/README.md) §5).
 > [the UI](tutorials/7-uploads/4-the-ui.md), [the
 > refinement](tutorials/7-uploads/5-refinement.md)
 
+### Features: the Load Tester
+
+> `draft`\
+> [Load Tester: what it is, and its five
+> pages](features/load-tester/README.md)
+
+> `draft`\
+> [1 The concept](features/load-tester/1-concept.md)
+
+> `draft`\
+> [2 The contract](features/load-tester/2-contract.md)
+
+> `draft`\
+> [3 The tests](features/load-tester/3-tests.md)
+
+> `draft`\
+> [4 The implementation](features/load-tester/4-implementation.md)
+
+> `draft`\
+> [5 The refinement](features/load-tester/5-refinement.md)
+
 ### js-api
 
 > `draft`\
