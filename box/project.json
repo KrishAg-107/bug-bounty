@@ -1,7 +1,7 @@
 {
-  "name": "example",
-  "description": "The template's own example: two starter services and a UI",
-  "github": "your-org/your-project",
+  "name": "loadtester",
+  "description": "Load tester project that evaluates behaviour and whether expected load can be handled by the API/ website/ etc.",
+  "github": "KrishAg-107/bug-bounty",
   "database": true,
   "ui": {
     "dev_callback_urls": [
