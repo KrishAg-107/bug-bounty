@@ -18,10 +18,18 @@ version: v0.1.0
 
 ## 1 What This Is
 
-A project whose API and UI run on a shared host, the
-box, which another repository keeps. The project holds
-its code, its manifest and its pages; the box's owner
-rolls them out. Its parts:
+   **A load tester: a tester enters a URL, and the system
+   shows how an API or a website behaves under load and
+   under bad input.** It checks the URL, prepares the
+   requests, runs a test of the chosen size with Locust and
+   shows the numbers; two runs can be compared. Its code is
+   kept in the team's own repository (https://github.com/KrishAg-107/UCS503-202627-TEAM-ELEVATE), and [these
+   pages](features/load-tester/README.md) document it.
+
+   The project runs on a shared host, the box, which
+   another repository keeps. The project holds its code,
+   its manifest and its pages; the box's owner rolls them 
+   out. Its parts:
 
 - **`js-api.<zone>`:** a service in JavaScript
 - **`py-api.<zone>`:** a service in Python
@@ -31,8 +39,6 @@ rolls them out. Its parts:
 - **One database,** each service's part under its
   prefix
 
-Replace this section with what your project does, once
-you have named it in `box/project.json`.
 
 ## 2 Who These Pages Are For
 
